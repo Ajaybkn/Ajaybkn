@@ -10,7 +10,7 @@
 </p>
 
 - 💡 I turn complex problems into elegant, full-featured web applications  
-- 🌱 Currently enhancing skills in **Next.js 14**, **TypeScript**, and **Solidity**  
+- 🌱 Currently enhancing skills in **Next.js 14**, **TypeScript**, and **AWS**  
 - 🧠 Love working across the stack — from intuitive UIs to performant APIs  
 - 📫 Reach me at: **ajaybkn1108@gmail.com**
 
@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with me
 <p>
-  <a href="https://linkedin.com/in/ajay singh khangarot" target="_blank">
+  <a href="https://linkedin.com/in/ajayskhangarot/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
